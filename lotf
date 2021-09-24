@@ -1,3 +1,4 @@
+
 with open( '//content/drive/MyDrive/Creative Coding/lotf-ebook.txt',encoding="utf-8",errors="surrogateescape") as f:
   text = f.read()
 
